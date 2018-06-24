@@ -48,10 +48,10 @@ function delete_id(id)
     <tr>
     <th colspan="5"><a href="add_data.php">add data here.</a></th>
     </tr>
-    <th>First Name</th>
-    <th>Last Name</th>
-    <th>City Name</th>
-    <th colspan="2">Operations</th>
+    <th>First Name My Change 1</th>
+    <th>Last Name My Change 2</th>
+    <th>City Name My Change 3</th>
+    <th colspan="2">Operations My Change 112</th>
     </tr>
     <?php
 	$sql_query="SELECT * FROM users";
